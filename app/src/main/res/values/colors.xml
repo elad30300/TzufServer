@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="enemyFillColor">#FC0808</color>
+    <color name="forcesFillColor">#245BF2</color>
+    <color name="generalPointStrokeColor">#010207</color>
+    <color name="enemyStrokeColor">#010207</color>
+    <color name="forcesStrokeColor">#010207</color>
+    <color name="limitBoundariesStrokeColor">#010207</color>
+</resources>
